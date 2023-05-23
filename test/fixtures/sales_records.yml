@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-05-15
+  product_name: MyString
+  product_id: 1
+  price: 1.5
+  revenue: 1.5
+
+two:
+  date: 2023-05-15
+  product_name: MyString
+  product_id: 1
+  price: 1.5
+  revenue: 1.5

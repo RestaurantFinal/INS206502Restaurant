@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_name: one
+  customer_email: one
+  address: MyText
+  total: 1.5
+  paid: MyString
+  food_name: one
+  quantity: 1
+
+two:
+  customer_name: two
+  customer_email: two
+  address: MyText
+  total: 1.5
+  paid: MyString
+  food_name: two
+  quantity: 1
